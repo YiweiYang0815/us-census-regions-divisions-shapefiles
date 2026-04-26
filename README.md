@@ -25,6 +25,8 @@ This repository includes:
   - Mountain
   - Pacific
 
+**The generated crosswalk table and shapefiles for U.S. Census regions and divisions can be found in the `outputs` folder.**
+
 ## Source
 
 Region and division definitions are based on the U.S. Census Bureau reference map:
@@ -38,6 +40,10 @@ U.S. Census Bureau. *TIGER/Line Shapefiles: 2025 State Boundaries*.
 https://www2.census.gov/geo/tiger/TIGER2025/STATE/
 
 A copy of the downloaded state shapefile is also included in the `data` folder of this repository.
+
+## Environment Setup
+
+Before running the notebook, create and activate a Python virtual environment.
 
 ## Intended Use
 
