@@ -15,6 +15,15 @@ This repository includes:
   - South
   - West
 - A shapefile for the nine U.S. Census divisions
+  - New England
+  - Middle Atlantic
+  - East North Central
+  - West North Central
+  - South Atlantic
+  - East South Central
+  - West South Central
+  - Mountain
+  - Pacific
 
 ## Source
 
