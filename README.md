@@ -45,12 +45,6 @@ A copy of the downloaded state shapefile is also included in the `data` folder o
 
 Before running the notebook, create and activate a Python virtual environment.
 
-### Windows PowerShell
-
-python -m venv .venv
-.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
-
 ## Intended Use
 
 These files are intended for researchers, students, analysts, and GIS users who need convenient spatial boundaries for U.S. Census regions and divisions.
