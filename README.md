@@ -24,6 +24,7 @@ This repository includes:
   - West South Central
   - Mountain
   - Pacific
+*The generated crosswalk table and shapefiles for U.S. Census regions and divisions can be found in the `outputs` folder.
 
 ## Source
 
