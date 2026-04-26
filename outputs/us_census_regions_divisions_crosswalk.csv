@@ -1,0 +1,52 @@
+state_fips,state_name,region,division
+01,Alabama,South,East South Central
+02,Alaska,West,Pacific
+04,Arizona,West,Mountain
+05,Arkansas,South,West South Central
+06,California,West,Pacific
+08,Colorado,West,Mountain
+09,Connecticut,Northeast,New England
+10,Delaware,South,South Atlantic
+11,District of Columbia,South,South Atlantic
+12,Florida,South,South Atlantic
+13,Georgia,South,South Atlantic
+15,Hawaii,West,Pacific
+16,Idaho,West,Mountain
+17,Illinois,Midwest,East North Central
+18,Indiana,Midwest,East North Central
+19,Iowa,Midwest,West North Central
+20,Kansas,Midwest,West North Central
+21,Kentucky,South,East South Central
+22,Louisiana,South,West South Central
+23,Maine,Northeast,New England
+24,Maryland,South,South Atlantic
+25,Massachusetts,Northeast,New England
+26,Michigan,Midwest,East North Central
+27,Minnesota,Midwest,West North Central
+28,Mississippi,South,East South Central
+29,Missouri,Midwest,West North Central
+30,Montana,West,Mountain
+31,Nebraska,Midwest,West North Central
+32,Nevada,West,Mountain
+33,New Hampshire,Northeast,New England
+34,New Jersey,Northeast,Middle Atlantic
+35,New Mexico,West,Mountain
+36,New York,Northeast,Middle Atlantic
+37,North Carolina,South,South Atlantic
+38,North Dakota,Midwest,West North Central
+39,Ohio,Midwest,East North Central
+40,Oklahoma,South,West South Central
+41,Oregon,West,Pacific
+42,Pennsylvania,Northeast,Middle Atlantic
+44,Rhode Island,Northeast,New England
+45,South Carolina,South,South Atlantic
+46,South Dakota,Midwest,West North Central
+47,Tennessee,South,East South Central
+48,Texas,South,West South Central
+49,Utah,West,Mountain
+50,Vermont,Northeast,New England
+51,Virginia,South,South Atlantic
+53,Washington,West,Pacific
+54,West Virginia,South,South Atlantic
+55,Wisconsin,Midwest,East North Central
+56,Wyoming,West,Mountain
