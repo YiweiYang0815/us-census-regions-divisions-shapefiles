@@ -47,7 +47,6 @@ Before running the notebook, create and activate a Python virtual environment.
 
 ### Windows PowerShell
 
-```bash
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 pip install -r requirements.txt
